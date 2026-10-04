@@ -6,5 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+*.ipynb_*
+
 # Virtual environments
 .venv
+
+# папка для мусора
+sand
